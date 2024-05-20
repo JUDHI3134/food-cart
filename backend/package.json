@@ -5,9 +5,9 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "server": "nodemon server.js"
+    "server":"nodemon server.js"
   },
-  "author": "",
+  "author": "judhistir",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
